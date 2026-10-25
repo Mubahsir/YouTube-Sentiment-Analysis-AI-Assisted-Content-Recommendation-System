@@ -1,4 +1,4 @@
-# YouTube Sentiment Analysis & AI-Assisted Content Recommendation System
+# YouTube Sentiment Analysis & AI Assisted Content Recommendation System
 
 ## Included
 - `YouTube_Sentiment_Analysis_Project.ipynb`: Complete Google Colab notebook.
